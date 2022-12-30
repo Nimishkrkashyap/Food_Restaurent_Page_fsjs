@@ -18,4 +18,4 @@
 ---
 This project is hosted on netlify. [Live Project Link](https://sparkling-smakager-8b85b5.netlify.app/)
 
-![Saas web page](./thumbnail.png)
+![Food Restaurent Page](./thumbnail.png)
